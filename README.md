@@ -1,0 +1,2 @@
+# MasalaMaster
+MasalaMaster Static
