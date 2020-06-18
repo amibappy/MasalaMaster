@@ -70,6 +70,10 @@ header {
 	margin-top: 0;
 }
 
+.content p {
+	margin-top: 45px;
+}
+
 .content form {
 	margin: auto;
 	display: table;
