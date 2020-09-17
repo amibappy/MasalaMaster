@@ -1,2 +1,2 @@
-# MasalaMaster
-MasalaMaster Static
+# Simple Website
+A very simple website
